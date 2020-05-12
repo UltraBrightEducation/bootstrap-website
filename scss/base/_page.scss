@@ -45,6 +45,9 @@ h6 {
     @include serif-font;
   }
 }
+.icon-course {
+  width: 128px;
+}
 @media(min-width:768px) {
   section {
     padding: 150px 0;
